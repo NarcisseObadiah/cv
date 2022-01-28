@@ -1,0 +1,17 @@
+ul{
+    width: 70%;
+    margin: auto;
+}
+body{
+
+    text-transform: capitalize;
+}
+.container-fluid
+{
+    
+    margin: auto;
+}
+#competence
+{
+    background-color: aqua;
+}
