@@ -1,3 +1,6 @@
+img{
+    clip-path: ellipse(50% 50%);
+}
 ul{
     width: 70%;
     margin: auto;
@@ -5,13 +8,34 @@ ul{
 body{
 
     text-transform: capitalize;
+    margin: 0 auto;
+    padding: 180px;
+    background-color: darkslategrey;
+  
+}
+h2{
+    text-align: center;
+    text-justify: auto;
+    background-color: turquoise;
+    margin-right: 100px;
+}
+.row 
+{
+    background-color: #ffff;
+    padding-left:100px;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     border-radius: 5% / 50%;
 }
 .container-fluid
 {
+     margin-left: 50rem;
+     margin: auto;
+     border-style: groove;
     
-    margin: auto;
-}
-#competence
-{
-    background-color: aqua;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     border-radius: 5% / 50%;
+     background-color: darkorange;
+    
 }
