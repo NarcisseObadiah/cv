@@ -39,3 +39,18 @@ h2{
      background-color: darkorange;
     
 }
+@media screen and (max-width:600px){
+
+
+
+    body{
+
+        text-transform: capitalize;
+        margin: 0 auto;
+        padding:0;
+        background-color: darkslategrey;
+      
+    }
+    
+    
+}
